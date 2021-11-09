@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**gulsahh1/gulsahh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- <img src="https://media.giphy.com/media/13Mg6Xn18UlTYMhsjW/giphy.gif " align="right" height="150" width="250">
+
+### Hi there, I'm Gülşah :blush:
+## Frontend Developer
+-  I’m addicted to learning and growing every day
+### Reach out to me
+<br/>
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
+[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+
+<br/>
+
+
+### Tech I Use
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25">
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="25" height="25">
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" height="25">
+
+
+<details>
+ <summary>:bulb:Github Stats</summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=gulsahh1&&theme=radical">
+</details>
+
+
+
+<details>
+ <summary>:bulb:Most Used Languages</summary>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</details>
+
+
+
+
+[linkedin]:linkedin.com/in/gulsahsahinn1
+[hackerrank]:https://www.hackerrank.com/sahingulsah541
+[instagram]:https://www.instagram.com/sahiingulsah/

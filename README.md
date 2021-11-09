@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/13Mg6Xn18UlTYMhsjW" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-cheering-love-hard-lovehard-13Mg6Xn18UlTYMhsjW">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/13Mg6Xn18UlTYMhsjW/giphy.gif" align="right" width="200" height="100">
 
 ### Hi there, I'm Gülşah :blush: 
 

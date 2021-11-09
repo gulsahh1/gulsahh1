@@ -33,7 +33,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=gulsahh1&&theme=radical">
 </details>
 
-
+<br/>
 
 <details>
  <summary>:bulb:Most Used Languages</summary>

@@ -4,7 +4,7 @@
 
 ### A Frontend Developer from Turkey
 
-- 🌱  I’m addicted to learning and growing every day
+- 🌱  I’m addicted to learning and improve myself every day
 
 ### Reach out to me
 <br/>

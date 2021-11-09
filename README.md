@@ -14,7 +14,6 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
 
 <br/>
-
 ### Tech I Use
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
@@ -28,6 +27,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="25" height="25">
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" height="25">
 
+<br/>
 <br/>
 <br/>
 

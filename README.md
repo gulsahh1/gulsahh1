@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/kelsTiWa09FzLGvbem/giphy.gif" align="right" width="400" height="300">
+<img src="https://media.giphy.com/media/kelsTiWa09FzLGvbem/giphy.gif" align="right" width="400" height="270">
 
 ## Hi there, I'm Gülşah :blush: 
 

@@ -1,11 +1,8 @@
-
-- 🌱 I’m currently learning ...
-
 - <img src="https://media.giphy.com/media/13Mg6Xn18UlTYMhsjW/giphy.gif " align="right" height="150" width="250">
-
 ### Hi there, I'm Gülşah :blush:
 ## Frontend Developer
--  I’m addicted to learning and growing every day
+- 🌱  I’m addicted to learning and growing every day
+
 ### Reach out to me
 <br/>
 

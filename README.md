@@ -1,12 +1,12 @@
 <img src="https://media.giphy.com/media/13Mg6Xn18UlTYMhsjW/giphy.gif" align="right" width="300" height="200">
 
-### Hi there, I'm Gülşah :blush: 
+## Hi there, I'm Gülşah :blush: 
 
 ### A Frontend Developer from Turkey
 
 - 🌱  I’m addicted to learning and growing every day
 
-## Reach out to me
+### Reach out to me
 <br/>
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
@@ -14,7 +14,7 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
 <br/>
 
-## Tech I Use
+### Tech I Use
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25">

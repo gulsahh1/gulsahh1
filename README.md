@@ -5,6 +5,7 @@
 
 ### Reach out to me
 <br/>
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
@@ -23,6 +24,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25">
 <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="25" height="25">
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" height="25">
+
 <br/>
 <br/>
 

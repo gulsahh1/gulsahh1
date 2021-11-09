@@ -1,17 +1,15 @@
-- <img src="https://media.giphy.com/media/13Mg6Xn18UlTYMhsjW/giphy.gif " align="right" height="150" width="250">
+<img src="https://media.giphy.com/media/13Mg6Xn18UlTYMhsjW/giphy.gif " align="right" height="150" width="250">
 ### Hi there, I'm Gülşah :blush:
 ## Frontend Developer
 - 🌱  I’m addicted to learning and growing every day
 
 ### Reach out to me
 <br/>
-
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
 
 <br/>
-
 
 ### Tech I Use
 
@@ -25,7 +23,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25">
 <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="25" height="25">
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" height="25">
-
+<br/>
 <br/>
 
 <details>
@@ -39,9 +37,6 @@
  <summary>:bulb:Most Used Languages</summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </details>
-
-
-
 
 [linkedin]:linkedin.com/in/gulsahsahinn1
 [hackerrank]:https://www.hackerrank.com/sahingulsah541

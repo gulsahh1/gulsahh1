@@ -1,4 +1,4 @@
-<img src="<iframe src="https://giphy.com/embed/13Mg6Xn18UlTYMhsjW" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-cheering-love-hard-lovehard-13Mg6Xn18UlTYMhsjW">via GIPHY</a></p> " align="right" height="150" width="250">
+<iframe src="https://giphy.com/embed/13Mg6Xn18UlTYMhsjW" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-cheering-love-hard-lovehard-13Mg6Xn18UlTYMhsjW">via GIPHY</a></p>
 
 ### Hi there, I'm Gülşah :blush: 
 

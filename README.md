@@ -26,7 +26,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="25" height="25">
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" height="25">
 
-
+<br/>
 <details>
  <summary>:bulb:Github Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=gulsahh1&&theme=radical">

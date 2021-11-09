@@ -1,4 +1,4 @@
-<a href="https://giphy.com/stories/which-witch-are-you-925a1e5b-043c"><img src="https://giphy.com/gifs/witch-harry-potter-1xbEpYJ8svLKo " align="right" height="150" width="250"></a> 
+<img src="https://giphy.com/gifs/witch-harry-potter-1xbEpYJ8svLKo " align="right" height="150" width="250">
 
 ### Hi there, I'm Gülşah :blush: 
 

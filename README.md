@@ -40,7 +40,7 @@
 
 <details>
  <summary>:bulb:Most Used Languages</summary>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsahh1&layout=compact">
 </details>
 
 [linkedin]:linkedin.com/in/gulsahsahinn1

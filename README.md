@@ -47,6 +47,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsahh1&layout=compact">
 </details>
 
-[linkedin]:linkedin.com/in/gulsahsahinn1
+[linkedin]:https://www.linkedin.com/in/gulsahsahinn1
 [hackerrank]:https://www.hackerrank.com/sahingulsah541
 [instagram]:https://www.instagram.com/sahiingulsah/

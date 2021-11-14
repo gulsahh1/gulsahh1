@@ -11,7 +11,6 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
-[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
 <br/>
 
 ### Tech I Use
@@ -49,4 +48,4 @@
 
 [linkedin]:https://www.linkedin.com/in/gulsahsahinn1
 [hackerrank]:https://www.hackerrank.com/sahingulsah541
-[instagram]:https://www.instagram.com/sahiingulsah/
+

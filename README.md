@@ -11,6 +11,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
+<a href="https://medium.com/@sahingulsah541"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" /></a>
 <br/>
 
 ### Tech I Use

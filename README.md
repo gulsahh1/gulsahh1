@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Gülşah :blush: 
 
-### A Frontend Developer from Turkey
+### A Software Engineer from Turkey
 
 - 🌱  I’m addicted to learning and improve myself every day
 

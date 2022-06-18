@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Gülşah :blush: 
 
-### A Software Engineer from Turkey
+### A Software Developer from Turkey
 
 - 🌱  I’m addicted to learning and improve myself every day
 
